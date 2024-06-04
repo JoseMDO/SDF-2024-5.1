@@ -1,6 +1,7 @@
 # 06-64-2024 Notes
 
 test 
+tesyt 
 ## Todo
  - Grade todo lists assignments
  - Meet with stand up group 
