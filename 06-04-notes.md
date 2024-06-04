@@ -5,7 +5,6 @@
  - Meet with stand up group 
  - 
 
-
 ## Tasks Done 
 
 
@@ -16,4 +15,4 @@
 
 ## Notes
  - Ruben had a great session on networking and how its done. Great questions were asked and valuabl information was given. 
-
+ twst 
