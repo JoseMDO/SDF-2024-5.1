@@ -1,5 +1,6 @@
 # 06-64-2024 Notes
 
+test 
 ## Todo
  - Grade todo lists assignments
  - Meet with stand up group 
@@ -15,4 +16,4 @@
 
 ## Notes
  - Ruben had a great session on networking and how its done. Great questions were asked and valuabl information was given. 
- twst 
+ 
