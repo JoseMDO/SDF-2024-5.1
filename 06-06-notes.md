@@ -1,4 +1,4 @@
-# Weekday, Month 03, 2024 Notes
+# Weekday 06, Month 06, 2024 Notes
 
 
 
@@ -9,8 +9,10 @@
 * Blockers:
 
 ## Today's TODO's
-
-
+- Try and get array pair sum solved and write some unit tests
+- Meet with Chenemelun for one on one
+- Work on grading some photogram erd diagrams
+- Write all my impressions for the week
 
 ## Ongoing TODO's
 
@@ -20,4 +22,6 @@
 
 
 
-## Daily Scratch Paper/Misc.
+## Daily Scratch Paper/Misc. 
+
+
