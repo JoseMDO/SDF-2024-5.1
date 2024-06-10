@@ -14,12 +14,15 @@
 
 
 ## Ongoing TODO's
- - Work omn DSA Friday lesson for two sum
+ - Work on DSA Friday lesson for two sum
 
 
 ## Daily Impressions
-
-
+ - Young asks great questions during DSA
+ - 
 
 
 ## Daily Scratch Paper/Misc. 
+- Kurt and Chinemelum missed retro 
+- Sprint planning for next week
+- 

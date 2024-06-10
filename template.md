@@ -1,4 +1,4 @@
-# Weekday, Month 03, 2024 Notes
+# Month, Day, 2024 Notes
 
 
 
