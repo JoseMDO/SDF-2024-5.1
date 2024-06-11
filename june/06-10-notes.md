@@ -13,7 +13,7 @@
 - Grade remaining assingments that are not graded
 - Meeting with Nancy and team
 - Linkedin Lesson
-
+- Setting up dev environemnt lesson 
 
 ## Ongoing TODO's
 - Work on DSA Lesson for Friday 
