@@ -11,7 +11,7 @@
 ## Today's TODO's
 - Work on DSA lesson for Friday
 - Grade remaining assingments that are not graded
-- Meeting with Nancy and team
+- Meeting with Nancy and team (postponed to tomorrow Tuesday June 11th)
 - Linkedin Lesson
 - Setting up dev environemnt lesson 
 
@@ -20,9 +20,11 @@
 
 
 ## Daily Impressions
-
+- Ray asked questions on installing rails, debugging, and postgressql
+- Brandon and Aizat volunteered to do elevator speech. 
 
 
 
 ## Daily Scratch Paper/Misc. 
-
+- Had a session on LinkedIn with Ansam
+- VsCode shortcuts with Ian
