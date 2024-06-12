@@ -18,14 +18,16 @@
 ## Ongoing TODO's
 - DSA Lesson 
 - Meet with Kurt to finish intro project 
-- Ask Chinemelum for emails to Matthew
+- Ask Chinemelum for emails to Matthew 
 
 
 ## Daily Impressions
-
+ - Chinemelum and Aizat both volunteered to give the student interns a tour of the building. Showing initiative and leadership. 
+ - 
 
 
 
 ## Daily Scratch Paper/Misc. 
+- Lesson on executive speaking and how to own the room and audience. Actionable advice and tips. 
 
 
