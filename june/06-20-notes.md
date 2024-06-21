@@ -29,4 +29,11 @@
 
 ## Daily Scratch Paper/Misc. 
 - 9:30 AM: Durable Skills(Jiaqi Li - How to Design a Great Deck)
-* 
+
+- 10:30 AM: Meeting with Chinemelum 
+* Met with Chinemelum to go over Kanban Board and ensure proper discord profile is in the TA chat
+
+- 11:00 AM: Meeting with Kurt
+* Met with kurt to go over success plan update. 
+* He finished his final project and deployed.
+
