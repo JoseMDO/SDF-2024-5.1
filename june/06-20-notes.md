@@ -17,12 +17,16 @@
 
 
 ## Ongoing TODO's
+- 
+
 
 
 
 ## Daily Impressions
-
+- Yusra was very friendly when she showed up for the first time in class. Yusra was curious on a few things she missed. Yusra gave a great first impression and wants to be succesful in the program. Great job Yusra!
 
 
 
 ## Daily Scratch Paper/Misc. 
+- 9:30 AM: Durable Skills(Jiaqi Li - How to Design a Great Deck)
+* 
