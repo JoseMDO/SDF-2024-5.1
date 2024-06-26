@@ -21,12 +21,22 @@
 
 
 ## Daily Impressions
+- Young is always very professionally dressed. 
+- Natalie went above and beyond on the Must See Movie helper methods modules. Natalie wanted more practice with her commit messages and frequency, and wanted to refactor some of the code by hand. Natalie created a pull request and had me review it to provide her feedback on how she did. This was not a requirement of the assignment but it showed Natalie appreciates feedback and wants to grow and learn more. Great job Natalie, keep up the good work!
+
 
 
 
 
 ## Daily Scratch Paper/Misc. 
-* 9:30 AM: Meeting with Kat about Day in the Life of a Softwrae Engineer
+1. 9:30 AM: Meeting with Kat about Day in the Life of a Softwrae Engineer
+* Software devlopment life cycle
 
 
-* 2:00 PM: Networking Event
+2. 10:30 AM: Started working on React Native Course
+
+3. 1:00 PM: Request to meme lesson with Ian and one sentence story
+
+4. 2:00 PM: Networking Event 
+
+4. 4:00 PM: Grading pull request 
