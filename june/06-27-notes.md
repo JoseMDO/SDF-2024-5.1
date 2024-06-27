@@ -25,9 +25,12 @@
 
 
 ## Daily Impressions
-
+- Brandon is very engaging during the durable skills lectures. Brandon likes to participate and have conversations with his peers to further indulge in the topics covered. Brandon shows great attention and engagement. Keep up the great work Brandon!
+- Yusra likes to participate during the durable skills and techical lectures. She likes to provide feedback on her opinions and asks questions that show she is engaged and attentive. Keep up the great work Yusra!
+- Aizat continues to participate during class and likes continue the conversatons by gicing her opinions and asking questions. Aizat is always engaged and very communicative, keep up the great work Aizat!
 
 
 
 ## Daily Scratch Paper/Misc. 
 1. 9:30 AM: Durable Skills - Taking Initiative with Hannen
+
