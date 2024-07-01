@@ -17,6 +17,7 @@
 
 
 ## Ongoing TODO's
+* Ask Young for her Uillinois email for asana board 
 * React Native Course
 * Coursera Course
 * Meetings 1-1 
@@ -24,7 +25,11 @@
 
 
 ## Daily Impressions
-
+* Chinemelum late - said train was stuck
+* Jeremy went first on Shareout presentations - Star Trek
+* Jan went second - Louis Van Aghn
+* Rebecca went third - Jupiter her Husky 
+* Ray went fourth - Change in Chemistry 
 
 
 
