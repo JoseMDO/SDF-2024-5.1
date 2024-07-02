@@ -56,3 +56,8 @@
 
 ### 1:00 PM: Meeting with Ian on Generators and scaffolding and helper methods
 
+### 2:00 PM: Worked on grading PRs and helping students
+
+### 3:00 PM: Meeting with Dylan for our 1-1
+
+### 4:00 PM: Finished doing PR reviews and helping students 
