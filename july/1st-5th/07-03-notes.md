@@ -23,8 +23,10 @@
 
 ## Daily Impressions
 * Aleksei sat with me to talk about how to go about project ideas. He wanted some tips on how to go about generating ideas and what is required for the meeting with Ian. Great job seeking guidance and asking for help and feedback to be succesful Aleksei!
-
-
+* Young volunteered her Idea for the lecture
+* Aizat volunteered her idea for the lecture 
+* Chinemelum volunteered during tech lecture 
+* 
 
 ## Daily Scratch Paper/Misc. 
 
