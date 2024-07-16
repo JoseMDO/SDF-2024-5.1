@@ -20,16 +20,20 @@
 
 
 ## Daily Impressions
-
+* Chinemelum messaged me to let me know that she will be working from home as she is not feeling well. 
 
 
 
 ## Daily Scratch Paper/Misc. 
 ### 9:30 AM: Share Out Presentations 
-* 
-* 
-* 
-* 
+* Natalie - Networking Simulator (Visuals were amazing; Spoke very clearly and dominantley)
+* Arpan - A little about coffee (Interesting)
+* Young - CityFinder (AMAZING slides; Very interactive)
+* Aizat - Breaking Barries (Empowering)
+* Aleksei - Emotional AI (Interesting; Spoke loud and clearly)
 
+### 10:30 AM: Worked on Course Curriculum Repo
 
-### 10:30 AM: 
+### BUSY ALL DAY 
+
+### GOT TOLD I WILL BE GOING TO UL AS A SOFTWARE DEVELOPERRRRR YAYYYYYYYYYYY !!!!!!!!!!!!! :))))))))))))))))))) 
