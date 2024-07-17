@@ -25,3 +25,6 @@
 
 
 ## Daily Scratch Paper/Misc. 
+
+
+BUSYYYYYY ALLLL DAYYY 
