@@ -21,6 +21,7 @@
 
 
 ## Daily Impressions
+* Yusra needs to attend scheudled events. She tried to leave to a networking thing during team building. 
 
 
 
