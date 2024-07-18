@@ -26,7 +26,7 @@
 
 ## Daily Impressions
 * Chinemelum late - said train was stuck
-* Jeremy went first on Shareout presentations - Star Trek
+* Jeremy went first on Shareout presentations. This takes great courage and initiative. Great job Jeremy!
 * Jan went second - Louis Van Aghn
 * Rebecca went third - Jupiter her Husky 
 * Ray went fourth - Change in Chemistry 

@@ -19,7 +19,7 @@
 
 
 ## Daily Impressions
-- Jan helped with a great resource on how to fix the Delivery Tracker pull request issue. Great job sharing a valuable resource to help your peers!
+- DONE - Jan helped with a great resource on how to fix the Delivery Tracker pull request issue. Great job sharing a valuable resource to help your peers!
 - Maya set up a meeting to help go over an assignemnt for some questions she had. Great job asking questions and seeking help when needed!
 - Rebecca reached out for help on an the Delivery Tracker assignment for some questions she had. Greta job asking questions and seeking help when needed!
 - (INTRO) Sabreena Salomon set up a meeting with me again to go over character types module. She asks questions when she is not sure how to do somehting. She shows great motivation to learn and understand what is going on. Keep up the great work Sabreena!
